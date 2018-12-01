@@ -10,8 +10,13 @@ var turnReady;
 
 var pcConfig = {
   'iceServers': [{
-    'urls': 'stun:stun.l.google.com:19302'
-  }]
+    'urls': 'stun:stun.l.google.com:19302'},
+    {
+    'urls': 'turn:numb.viagenie.ca',
+    'credential': 'muazkh',
+    'username': 'webrtc@live.com'
+}
+  ]
 };
 
 // Set up audio and video regardless of what devices are present.
