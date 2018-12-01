@@ -6,7 +6,7 @@
     "socket.io": "^2.0.4"
   },
   "engines": {
-    "node": "5.7.x"
+    "node": "10.13.x"
   },
   "scripts": {
     "start": "node index.js"
