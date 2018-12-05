@@ -16,9 +16,13 @@ var pcConfig = {
     //'urls': 'turn:numb.viagenie.ca',
     //'credential': 'muazkh',
     //'username': 'webrtc@live.com'
-      'urls': 'turn:turn.bistri.com:80',
-    'credential': 'homeo',
-    'username': 'homeo'
+      //'urls': 'turn:turn.bistri.com:80',
+    //'credential': 'homeo',
+    //'username': 'homeo'
+      'urls': 'turn:numb.viagenie.ca',
+    'credential': 'webrtcvideo',
+    'username': 'nikhilsridar@gmail.com'
+      
 }
   ]
 };
