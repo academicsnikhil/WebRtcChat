@@ -19,9 +19,12 @@ var pcConfig = {
       //'urls': 'turn:turn.bistri.com:80',
     //'credential': 'homeo',
     //'username': 'homeo'
-      'urls': 'turn:numb.viagenie.ca',
+      /*'urls': 'turn:numb.viagenie.ca',
     'credential': 'webrtcvideo',
-    'username': 'nikhilsridar@gmail.com'
+    'username': 'nikhilsridar@gmail.com'*/
+      'urls': 'turn:numb.viagenie.ca',
+    'credential': '12345678',
+    'username': 'jsprchn2@gmail.com'
       
 }
   ]
